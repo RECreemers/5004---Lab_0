@@ -1,0 +1,13 @@
+Report Lab 0:
+	1) I learned how to use both Eclipse and IntelliJ IDEs for coding in Java. I also learned about 
+		Constructors, how to use Classes in Java, Methods, what JUnit testing is, and a good basis in how to 
+		read a Java file. I also learned how to comment in Java and what a good comment is for each method.
+		I didn’t actually learn how to make a JavaDoc because my JavaDoc created in Eclipse gave us that 
+		unknown error, so I got permission to not include it and still get full points. Which thank you for that btw. 
+	
+	2) Screenshots are up on the GitHub with the corresponding titles to images
+
+	3) Extensions: I got it working in IntelliJ (Screenshot for proof, actually prefer IntelliJ) and I am posting everything on GitHub
+
+	4) Grading statement: I completed every part of this assignment as well as adding in a few extensions, so I feel I deserve full credit for this Lab.
+		I’m also pretty happy that I managed to make it to the ICE for this one, or I would 	have been totally in the dark for what to do for the Lab
