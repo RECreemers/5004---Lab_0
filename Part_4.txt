@@ -1,0 +1,13 @@
+4 Sources:
+    1) Stackoverflow.com - it seems to be industry standard and also
+    helped me figure out why my HelloWorld program wasn't working in
+    Eclipse
+    2) Coding with John - it was recommended by multiple users online
+    as a good youtube resource, and it has over 800,000 views for some
+    of his tutorials so it seems to be used quite a bit
+    3) w3schools.com - I used it a lot of python and it also has java
+    resources so ill be looking up lots of stuff on there
+    4) Geek for Geeks - this was another website I used a lot for my
+    python studies but also has good info on java so ill be using it
+    and trusting it's word again
+    5) Bro Code - Was recommended it, haven't checked it out yet. 
